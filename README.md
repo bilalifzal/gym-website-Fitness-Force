@@ -68,3 +68,4 @@ This project utilizes custom-built PHP REST APIs to ensure data is synchronized 
 **Example: Fetching Live Reviews from Flutter DB**
 ```http
 GET /api/reviews.php
+This Api fetch the data from the flutter application reviews section 
