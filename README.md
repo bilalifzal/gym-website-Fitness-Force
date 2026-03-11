@@ -63,9 +63,9 @@ Fitness Force Pro is not just a website; it is a 3-part digital architecture:
 
 ## ⚙️ API Integration
 
-This project utilizes custom-built PHP REST APIs to ensure data is synchronized instantly across the Web, Desktop, and Mobile environments.
+This project utilizes custom-built PHP REST APIs to ensure data is synchronized instantly across the Web, Desktop, and Mobile environments and ecosystems.
 
 **Example: Fetching Live Reviews from Flutter DB**
 ```http
-GET /api/reviews.php
-This Api fetch the data from the flutter application reviews section 
+GET /api/reviews.php 
+
